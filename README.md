@@ -20,7 +20,9 @@ Over the last few years, I’ve also leaned hard into AI-augmented delivery: usi
 - LinkedIn: https://linkedin.com/in/jondavis77
 - Email: jon@jondavis.net
 
+<!-- 
 ## Selected work (high signal)
 - Case Study: Stabilization & Simplification — https://jondavis.net/work/stabilization
 - Case Study: Event-driven Workflow Design — https://jondavis.net/work/event-driven
 - Case Study: LLM Integration with Guardrails — https://jondavis.net/work/llm-guardrails
+-->
