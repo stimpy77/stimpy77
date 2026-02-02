@@ -16,7 +16,7 @@ Over the last few years, I’ve also leaned hard into AI-augmented delivery: usi
 
 ## Links
 - Website: https://jondavis.net
-- Resume: https://jondavis.net/resume
+- Resume: https://jondavis.net/resume.docx
 - LinkedIn: https://linkedin.com/in/jondavis77
 - Email: jon@jondavis.net
 
